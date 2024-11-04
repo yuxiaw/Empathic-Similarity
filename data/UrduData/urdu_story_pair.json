@@ -1,0 +1,78 @@
+[
+    {
+      "Story_A": "Ali aur Ayesha bachpan ke dost they. Dono ne saath college complete kiya aur ab shadi ki tayyari mein they. Ek din, Ali ko achanak maloom hua ke uski naukri ka offer aa gaya hai aur woh aik mahine baad Amreeka chala jayega. Ayesha is baat se bohot udaas hui magar Ali ne usay tasalli di ke yeh sirf chand maheeno ki baat hai. Shadi ke chand haftay baad, Ali Amreeka chala gaya. Un dono ke liye yeh waqt mushkil tha, magar unki mohabbat ne sab kuch mumkin bana diya. Har roz video calls aur messages ne unka rishta mazboot rakha aur chand maheeno baad Ali wapas Pakistan aaya aur un dono ne saath apni nayi zindagi ka aghaz kiya.",
+      "Story_B": "Sara aur Hamza ki shadi ko do saal ho gaye they. Hamza aik mulazim tha aur Sara aik school teacher. Dono apni zindagi se khush they magar aik din Hamza ne Sara ko bataya ke usay promotion mil gaya hai aur ab usay aik saal ke liye bahar jana hoga. Sara pehli bar is baat par udaas hui magar phir un dono ne faisla kiya ke yeh aik naya moqa hai apni zindagi mein kuch naya karne ka. Sara ne is waqt ko apni padhai puri karne aur nayi skills seekhne mein lagaya. Jab Hamza wapas aaya to un dono ne mehsoos kiya ke yeh doori ne unke rishton ko aur bhi mazboot bana diya hai.",
+      "Similarity_score": 4,
+      "Theme_story_A": "Positive Life Events",
+      "Theme_story_B": "Positive Life Events",
+      "Reason": "Dono kahaniyon mein shadi shuda joray ka zikr hai jo aik temporary doori ke baad apne rishton ko mazboot karte hain."
+    },
+    {
+      "Story_A": "Nida aik khush mizaj larki thi magar kuch mahinon se woh depression ka shikar thi. Usne apne aap ko har cheez se alag kar liya tha. Uske parents ne usay therapy par bhejna shuru kiya. Pehli mulaqat mein hi therapist ne Nida ki baatien sunni aur usay mehsoos karaya ke woh akeli nahi hai. Dheere dheere, therapy ne usay apne jazbaton ko samajhne mein madad di aur woh apne depression se nikalne lagi. Uske parents ka pyar aur support bhi usay wapas uski purani zindagi mein le aya.",
+      "Story_B": "Arif ek laadle beta tha magar jawani mein usay drugs ki lat lag gayi thi. Uske ghar walon ne usay rehab bheja jahan usay recovery ka raasta dikhaya gaya. Pehle din se hi therapist ne usay samjha ke yeh sab kuch uski zindagi ko behtar banane ke liye hai. Pehle kuch hafton mein Arif ko bohot mushkil hui magar dheere dheere usay apni zindagi mein sudhar nazar aaya. Usne apni purani aadaton ko chhor diya aur aik nayi zindagi shuru ki jahan uske ghar walon ka pyar aur support uske saath tha.",
+      "Similarity_score": 3,
+      "Theme_story_A": "Depression",
+      "Theme_story_B": "Substance Use",
+      "Reason": "Dono kahaniyon mein characters ko psychological struggles ka samna hai aur therapy se unko madad milti hai."
+    },
+    {
+      "Story_A": "Sana apni college ki zindagi se tang aa chuki thi. Har roz woh classes aur assignments mein uljhi rehti. Ek din uski dost Neha ne usay volunteer ka kaam karne ka mashwara diya. Sana ne socha yeh aik naya tajurba hoga aur usay kuch naya seekhne ko milega. Jab Sana ne volunteer ka kaam shuru kiya, usay mehsoos hua ke woh kitna khush hai doosron ki madad kar ke. Usay apne life ka ek naya maqasad mil gaya aur woh phir se motivated mehsoos karne lagi.",
+      "Story_B": "Kashif aik IT company mein kaam karta tha jahan uski zindagi sirf mundane tasks se bhari hui thi. Har roz ek hi tarike se office aana aur jana, usay bore kar gaya tha. Ek din uske coworker Ali ne usay aik nayi project mein shamil hone ka mashwara diya jahan woh apni creativity aur skills ko istimaal kar sakta tha. Kashif ne jab yeh naya project shuru kiya, usay apne kaam mein phir se maza aane laga. Usne dekha ke uski life mein phir se excitement aur motivation aa gayi hai.",
+      "Similarity_score": 2,
+      "Theme_story_A": "College and School",
+      "Theme_story_B": "Work",
+      "Reason": "Dono kahaniyon mein characters apni boring zindagi se tang aakar nayi opportunities ko explore karte hain jo unke liye positive sabit hoti hain."
+    },
+    {
+      "Story_A": "Rehan apne bachpan ki yaadon ko yaad karta rehta tha. Uski nanhi si duniya mein bas khel aur masti hoti thi. Jawani mein aake usay apne bachpan ka wo pyar aur masoomiyat yaad aata tha. Har choti baat par khush ho jana, har lamha jee bhar ke jeena, yeh sab kuch usay apni beti Meera mein nazar aata tha. Usay dekh kar woh phir se apne bachpan ki yaadon mein kho jata.",
+      "Story_B": "Zara apne teenage ke dinon ko yaad karti thi jab woh aur uski friends mil kar school ke baad ghoomne jate they. Har din nayi masti aur nayi adventures. Ab Zara ki shaadi ho chuki thi aur uski apni family thi. Jab bhi woh apni purani friends ke sath milti, woh pal usay phir se wohi teenage wali feelings de jate. Zara har din apne bachpan aur teenage ke wo din yaad karti thi aur sochti thi ke kitne khaas they wo pal.",
+      "Similarity_score": 4,
+      "Theme_story_A": "Youth",
+      "Theme_story_B": "Youth",
+      "Reason": "Dono kahaniyon mein characters apne bachpan aur teenage ke dinon ko yaad karte hain aur un lamhon ko phir se jeetay hain apni aaj ki zindagi mein."
+    },
+    {
+        "Story_A": "Nadia ki shaadi isi mahine honi thi. Har taraf khushi ka mahol tha. Uski maan aur behne mil kar uski mehndi aur barat ke kapray silwa rahe thein. Ek din, usse university ka dost Ahmed mila. Ahmed kehte hai, 'Nadia, tum buhat pyari lag rahi ho. Tumhari khushi meri dua hai.' Nadia ne sharmindagi se sir jhuka liya. Ahmed wahan chala gaya jahan se uska koi rishta nahi ban sakta tha, magar uski duaon mein har pal Nadia ke liye sirf khushiyan thi.",
+        "Story_B": "Ali ke man mein andhera chha gaya tha. Do saal pehle ki baat hai jab uska rishta toot gaya tha. Har din uske dil pe bhoj ban gaya tha. Phir uski zindagi mein Samina ayi, jo uske har dard ko samajhti thi. Unhone mil ke nayi zindagi shuru ki. Ek din Ali ne Samina se kaha, 'Tum meri zindagi mein roshni ho. Mujhe tumhare saath har pal aziz hai.' Samina ke aansoo Ali ke dil ka dard mita gaye.",
+        "Similarity_score": 4,
+        "Theme_story_A": "Romantic Relationships",
+        "Theme_story_B": "Depression",
+        "Reason": "Dono kahaniyan emotional connection aur pyar ke bare mein hain. Story_A mein Nadia aur Ahmed ke beech ka pyar aur duaon ka rishta hai, jab ke Story_B mein Ali aur Samina ke dukh aur pyar ka saath hai."
+      },
+      {
+        "Story_A": "Arif ka professional safar kuch mukhtalif tha. Usne apni engineering ki degree puri ki aur pehla kaam aik private firm mein shuru kiya. Rozana kaam se bezzar ho gaya tha, magar paisa kamane ki majboori thi. Ek din uske dost ne usse voluntary work ki suggestion di, aur Arif ne bina sochay samjhe haan kar di. Us din ke baad, usse apni zindagi mein ek nayi roshni nazar ayi. Volunteering ne usse woh khushi di jo paison ke dhanak nahi de saka.",
+        "Story_B": "Kiran ne recent retire kiya tha. 30 saal tak ek accounting firm mein kaam kiya tha. Woh routine se tang aur thaki thi. Par ab jabghar ayi, woh apne bachon aur potay potiyon ke sath waqt guzarna pasand karti thi. Ek din, uska pota itni pyari kahani sunaya ke Kiran hasne lagi. Us waqt usse ehsaas hua ke bus yeh pal hi zindagi ka asal sukoon hai.",
+        "Similarity_score": 3,
+        "Theme_story_A": "Work",
+        "Theme_story_B": "Life Changes",
+        "Reason": "Story_A aur Story_B dono mein focus zindagi aur kaam mein tabdeeliyon par hai. Arif ne voluntary work ki roshni ko dekha jab ke Kiran apni retirement ke baad ghar walon ka pyaar mehsoos karti hai."
+      },
+      {
+        "Story_A": "Sara apni university ki life enjoy kar rahi thi, par aik nayi class usko preshan kar rahi thi. Har roz woh apne professor ke lectures ko samajhne ki koshish karti. Ek din uske class fellow, Imran ne usse kaha, 'Tum chahti ho tou hum mil kar padh sakte hain.' Sara ne uske madad ko qabool kiya. Dono ne mil kar parhai ki aur semester ki akhirat mein unko A grade mila.",
+        "Story_B": "Raza school mein naya tha, aur usse friends banana mushkil hota tha. Aik din uskinsonal Nafisa ne usse invite kiya ke woh unka study group join kare. Raza hesitant tha pehle, par phir usne haan kiya. Gradually usne naye dost bana liye aur uske grades bhi achay ho gaye. Usne samjha ke kabhi kabhi madad mangna buri baat nahi.",
+        "Similarity_score": 4,
+        "Theme_story_A": "College and School",
+        "Theme_story_B": "Encouragement",
+        "Reason": "Donon kahaniyan education aur madad ke related hain. Story_A mein Sara ko Imran ki madad milti hai aur Story_B mein Raza ko Nafisa ka support milta hai. Dono settings educational aur mutual understanding par based hain."
+      },
+      {
+        "Story_A": "Zara bachpan se aik introvert thi. Shaadi ke baad bhi woh apne aap ko tanha mehsoos karti thi. Ek din usne decide kiya ke woh apne aap ko change karegi. Woh aik salon gayi aur apna hairstyle badal liya. Jab sheeshe mein apni nayi shakal dekhi, uske chehre par muskurahat chha gayi. Yeh chota sa change us ke confidence ko wapas la diya.",
+        "Story_B": "Tariq hamesha apne doston ke sath waqt guzarta tha, magar uski aakhri job experience ne use akela ker diya. Woh roz apne aap ko tanha mehsoos karta. Ek din usne decide kiya ke woh itwaar bazaar jayega. Usne wahaan purane dost ko dekha jo usko dekh kar buhat khush hua. Pura din guzar gaya aur usse samajh aaya ke kabhi kabhi sair se bhi dillon ka bojh khulta hai.",
+        "Similarity_score": 2,
+        "Theme_story_A": "Loneliness",
+        "Theme_story_B": "Encouragement",
+        "Reason": "Dono kahaniyan ek doosre se thodi mukhtalif hain. Story_A Zara ke self-improvement aur loneliness ka zikr karti hai jab ke Story_B Tariq ke encouragement aur tanha zindagi ka zikr karti hai. Emotional aur thematic handling mein thoda fark hai."
+      } 
+
+      {
+        "Story_A":"Raza ne aakhir kar aaj apni zindagi ka sab se bada faisla kiya. Wo aur Maria ikathay university mein hotay thay. Har din ki mulaqat aur mustaqil taluq ne unka rishta bepanah kar diya. Magar Raza ki ghar walon ne Maria ko kabhi qbool nahi kiya. Chaar saal ki mohabbat ko ek lafz 'talaaq' ne tod diya. Raza ke ankhoon mein aansoo thay lekin baiti hui yaadon mein mohabbat zinda thi.",
+        "Story_B":"Humaira aur Usman ki shaadi unke ghar walon ki marzi ke khilaf hui thi. Woh university ke dino se ikathay thay aur har din milte. Shaadi ke baad, unke darmiyan mohabbat aur barh gayi. Magar ek din Usman ka accident hua aur woh iss dunya se chala gaya. Humaira ne uske baat shaadi na karne ka faisla kiya, kyonki Usman ke baghair uski zindagi adhuri thi.",
+        "Similarity_score":4,
+        "Theme_story_A":"Romantic Relationships",
+        "Theme_story_B":"Romantic Relationships",
+        "Reason":"Dono kahaniyon mein mohabbat aur judaai ke ehsaasat barabar rawani rakhte hain."
+      }
+
+
+]
+  

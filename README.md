@@ -74,7 +74,7 @@ LoRA-SFT-CoT, Full-SFT-Score
 * `/Scripts` contains ...
 
 ## Results
-
+![intro figure](docs/Results.png)
 
 ## Citation
 

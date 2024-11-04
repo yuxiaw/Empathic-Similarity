@@ -1,4 +1,4 @@
-# Can Machines Resonate with Humans? Evaluating the Emotional and Empathic Comprehension of LMs [EMNLP 2024]
+# Can Machines Resonate with Humans? <br> Evaluating the Emotional and Empathic Comprehension of LMs [EMNLP 2024]
 
 > [**Empathic Comprehension of LMs**](https://arxiv.org/abs/2406.11250)<br>
 > [Muhammad Arslan Manzoor](https://scholar.google.com/citations?user=ZvXClnUAAAAJ&hl=en), [Yuxia Wang](https://scholar.google.com.au/citations?hl=en&user=dciz7yMAAAAJ&view_op=list_works&sortby=pubdate), 
@@ -50,8 +50,14 @@ We reproduce baseline experiments, performed error analysis and evaluated propos
 - 300 Pairs of Urdu stories synthetically generated with GPT4o and annotated by human.
 - Annotated as event, emotion, and empathy similarity of each pair (we removed moral from annotation due to its abstract nature).
 
-## Language Models
-
+## Models
+### Smaller pretrained LMs (Contrastive Learning):
+RoBerta (base, large), SBERT, BART, Multi-qa-MPNet 
+### Zero-Shot Evaluation
+LLMs: OpenAI-text-embedding-3-large, LLaMa, GPT-4o
+### SFT of LLM 
+LoRA-SFT-Score only strategy,
+LoRA-SFT-CoT, Full-SFT-Score
 
 ## File Structure
 * `/data` contains all data folders

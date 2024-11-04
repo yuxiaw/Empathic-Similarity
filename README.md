@@ -74,7 +74,17 @@ LoRA-SFT-CoT, Full-SFT-Score
 * `/Scripts` contains ...
 
 ## Results
-![intro figure](docs/Results.png)
+In our paper:
+
+- Table 1 report the incorrect predictions by fine-tuned SBERT and BART baselines.
+
+- Table 2: LM fine-tuned over annotations of event, emotion, moral, and overall empathy score and tested on empathy in contrastive learning setting.
+
+- Table 3: Zero-shot results of discriminative and generative models on the test set using summary and full story over
+four types of gold similarity scores.
+
+- Table 4: LLaMA-3-8B SFT by three paradigms. Score only, CoT with LoRa and Full-SFT.
+
 
 ## Citation
 

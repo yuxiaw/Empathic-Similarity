@@ -69,9 +69,11 @@ LoRA-SFT-CoT, Full-SFT-Score
          * `Urdu_Dataset_Annotation.csv` contains annotation score w.r.t each annotator. However the important fields to evaluate models are Event_AVG,	Emo_AVG, and Emp_AVG, which are the average of 4 annotators. The gpt_score is the same score that GPT4o provided while generating dataset.
 * `/ErrorAnalysis` contains the scores we achieved while reproducing the results on EmpathicStories with SBERT and BART 
 
-* `/Notebooks` contains ...
+* `/Notebooks` contains interactive notebooks for our initial experiments and corresponding analysis.
 
-* `/Scripts` contains ...
+* `/src` contains the codes for LLM related experiments including zero-shot inference (`llm_eval_openllm.py`), SFT with/without COT (`sft_llama3.py, sft_llama3_cot.py`), as well as the script to synthesis COT reasoning steps (`synthesize_explanation`).
+
+* `/Scripts` contains the shell script to invoke source codes in `src/`.
 
 ## Results
 In our paper:
